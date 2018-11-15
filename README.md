@@ -1,6 +1,7 @@
 # FigRepo
 Gallery of Xfig drawings
 
+Rendered drawings can be found at https://github.com/putanowr/FigRepo/wiki
 # License
 All images in FigRepo repository are distributed under the following license:
 
